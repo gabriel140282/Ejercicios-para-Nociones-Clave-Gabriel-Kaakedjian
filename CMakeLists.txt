@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.29)
-project(Ejercicios_para_Nociones_Clave_Gabriel_Kaakedjian)
+project(Nociones-Clave-Gabriel-Kaakedjian)
 
 set(CMAKE_CXX_STANDARD 14)
 
